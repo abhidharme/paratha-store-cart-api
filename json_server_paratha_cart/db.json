@@ -1,0 +1,34 @@
+{
+  
+  "cart": [
+    {
+      "title": "Plain paratha & Yogurt",
+      "image": "https://media.istockphoto.com/photos/traditional-indian-bread-aloo-paratha-or-aalu-parotha-potato-stuffed-picture-id694739192?k=20&m=694739192&s=612x612&w=0&h=vSILNaNqzpe2BfkfocKsRWOsmkSd2bCLtOryxP0GHKo=",
+      "price": 40,
+      "Addons": [
+        {
+          "Extra_Sauce": {
+            "current": 5
+          },
+          "Yogurt": {
+            "current": 0
+          },
+          "Cheese": {
+            "current": 0
+          },
+          "Corn": {
+            "current": 0
+          },
+          "Cabbage": {
+            "current": 0
+          },
+          "Fenugreek": {
+            "current": 0
+          }
+        }
+      ],
+      "quantity": 1,
+      "id": 1
+    }
+  ]
+}
